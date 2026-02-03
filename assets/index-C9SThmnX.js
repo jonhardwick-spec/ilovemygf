@@ -49,7 +49,7 @@ Error generating stack: `+u.message+`
           z-index: 0;
         }
         .kitty-rain-container.foreground {
-          z-index: 100;
+          z-index: 9999;
         }
         .kitty-item {
           position: absolute;
